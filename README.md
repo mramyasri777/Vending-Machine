@@ -6,7 +6,7 @@
   <h2> G3 Integerated VLSI </h2>
 </div>
 
-# PREVEN-K-G3-Integrated-VLSI
+# RAMYASRI -M-G3-Integrated-VLSI
 
 ## FPGA Vending Machine Controller
 
